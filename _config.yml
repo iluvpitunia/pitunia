@@ -3,7 +3,7 @@
 title: pitunia blog
 locale: ko_KR
 description: 
-logo: bluecloud.jpg
+logo: 
 search: true
 url: https://iluvpitunia.github.io/pitunia
 
@@ -42,7 +42,7 @@ owner:
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: https://github.com/whitebluecloud
+  github: https://github.com/iluvpitunia
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
